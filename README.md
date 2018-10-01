@@ -1,2 +1,2 @@
-# Blackjack
-A simple blackjack game developed in Qt
+# BlackjackGUI
+This game is in development.
